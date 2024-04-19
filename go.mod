@@ -12,7 +12,6 @@ require (
 	github.com/mattn/go-sqlite3 v1.14.8
 	github.com/sirupsen/logrus v1.8.1
 	github.com/stretchr/testify v1.4.0 // indirect
-	golang.org/x/net v0.0.0-20201031054903-ff519b6c9102 // indirect
-	golang.org/x/sys v0.0.0-20210809222454-d867a43fc93e // indirect
+	golang.org/x/net v0.23.0 // indirect
 	gopkg.in/yaml.v2 v2.2.7 // indirect
 )
